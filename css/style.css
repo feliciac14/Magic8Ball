@@ -1,0 +1,17 @@
+body {
+    background-color:darkorchid
+}
+ 
+button {
+    background-color: mediumorchid;
+    border: 1px solid darkorchid;
+    margin-left: 46.7%;
+    height: 40px;
+    width: 80px;
+}
+
+img {
+    height: 300px;
+    margin-left:38% 
+}
+
